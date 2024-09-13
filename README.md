@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @abdulaziz1d
+- 👋 this account was made for orage codding school tasks and projects here is my main github account: https://github.com/abdulazeez761
+
 
 
 <!---
